@@ -1,5 +1,11 @@
-# oi, eu sou joão vitor
+# oi, eu sou joão vitor 🖤
+
 eu sou estudante do ensino medio
-estou utilizando o github para estudar os codigos do alura
-scratch
-javascrip
+
+sou estudante da escola josé marcelino de almeida
+
+minhas principais atividade no github são:
+
+estudar as aulas da plataforma alura
+programação scratch e javascript
+
